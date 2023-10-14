@@ -16,9 +16,9 @@ Projeto desenvolvido com foco em melhorar as habilides em python, e aprofundar o
 ## Instalação
 
 - Projeto feito utilizando o ambiente virtual venv
-  -- python3 -m venv nome_do_ambiente
-  -- source nome_do_ambiente/bin/activate
+  - python3 -m venv nome_do_ambiente
+  - source nome_do_ambiente/bin/activate
 
 - Utlizando as bibliotecas
-  -- Pandas (pip install pandas)
-  -- Requests (pip install requests)
+  - Pandas (pip install pandas)
+  - Requests (pip install requests)
